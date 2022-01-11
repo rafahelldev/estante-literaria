@@ -1,0 +1,34 @@
+C:\Users\rafae\Desktop\Estante Literária - Projeto Final de Gabrielle Amancio, Helena Lessa e Rafael de Lima\Estante Literária\bin\Debug\Estante Literária.exe.config
+C:\Users\rafae\Desktop\Estante Literária - Projeto Final de Gabrielle Amancio, Helena Lessa e Rafael de Lima\Estante Literária\bin\Debug\Estante Literária.exe
+C:\Users\rafae\Desktop\Estante Literária - Projeto Final de Gabrielle Amancio, Helena Lessa e Rafael de Lima\Estante Literária\bin\Debug\Estante Literária.pdb
+C:\Users\rafae\Desktop\Estante Literária - Projeto Final de Gabrielle Amancio, Helena Lessa e Rafael de Lima\Estante Literária\bin\Debug\MySql.Data.dll
+C:\Users\rafae\Desktop\Estante Literária - Projeto Final de Gabrielle Amancio, Helena Lessa e Rafael de Lima\Estante Literária\obj\Debug\Estante Literária.csprojAssemblyReference.cache
+C:\Users\rafae\Desktop\Estante Literária - Projeto Final de Gabrielle Amancio, Helena Lessa e Rafael de Lima\Estante Literária\obj\Debug\Estante_Literária.FormAutor.resources
+C:\Users\rafae\Desktop\Estante Literária - Projeto Final de Gabrielle Amancio, Helena Lessa e Rafael de Lima\Estante Literária\obj\Debug\Estante_Literária.FormCliente.resources
+C:\Users\rafae\Desktop\Estante Literária - Projeto Final de Gabrielle Amancio, Helena Lessa e Rafael de Lima\Estante Literária\obj\Debug\Estante_Literária.FormInicial.resources
+C:\Users\rafae\Desktop\Estante Literária - Projeto Final de Gabrielle Amancio, Helena Lessa e Rafael de Lima\Estante Literária\obj\Debug\Estante_Literária.Properties.Resources.resources
+C:\Users\rafae\Desktop\Estante Literária - Projeto Final de Gabrielle Amancio, Helena Lessa e Rafael de Lima\Estante Literária\obj\Debug\Estante Literária.csproj.GenerateResource.cache
+C:\Users\rafae\Desktop\Estante Literária - Projeto Final de Gabrielle Amancio, Helena Lessa e Rafael de Lima\Estante Literária\obj\Debug\Estante Literária.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Desktop\Estante Literária - Projeto Final de Gabrielle Amancio, Helena Lessa e Rafael de Lima\Estante Literária\obj\Debug\Estante Literária.csproj.CopyComplete
+C:\Users\rafae\Desktop\Estante Literária - Projeto Final de Gabrielle Amancio, Helena Lessa e Rafael de Lima\Estante Literária\obj\Debug\Estante Literária.exe
+C:\Users\rafae\Desktop\Estante Literária - Projeto Final de Gabrielle Amancio, Helena Lessa e Rafael de Lima\Estante Literária\obj\Debug\Estante Literária.pdb
+C:\Users\rafae\Desktop\Estante Literária - Projeto Final de Gabrielle Amancio, Helena Lessa e Rafael de Lima\Estante Literária\obj\Debug\Estante_Literária.FormFuncionario.resources
+C:\Users\rafae\Desktop\Estante Literária - Projeto Final de Gabrielle Amancio, Helena Lessa e Rafael de Lima\Estante Literária\obj\Debug\Estante_Literária.FormVenda.resources
+C:\Users\rafae\Desktop\Estante Literária - Projeto Final de Gabrielle Amancio, Helena Lessa e Rafael de Lima\Estante Literária\obj\Debug\Estante_Literária.FormLivro.resources
+C:\Users\rafae\Desktop\projeto final\Estante Literária - Projeto Final de Gabrielle Amancio, Helena Lessa e Rafael de Lima\Estante Literária\bin\Debug\Estante Literária.exe.config
+C:\Users\rafae\Desktop\projeto final\Estante Literária - Projeto Final de Gabrielle Amancio, Helena Lessa e Rafael de Lima\Estante Literária\bin\Debug\Estante Literária.exe
+C:\Users\rafae\Desktop\projeto final\Estante Literária - Projeto Final de Gabrielle Amancio, Helena Lessa e Rafael de Lima\Estante Literária\bin\Debug\Estante Literária.pdb
+C:\Users\rafae\Desktop\projeto final\Estante Literária - Projeto Final de Gabrielle Amancio, Helena Lessa e Rafael de Lima\Estante Literária\bin\Debug\MySql.Data.dll
+C:\Users\rafae\Desktop\projeto final\Estante Literária - Projeto Final de Gabrielle Amancio, Helena Lessa e Rafael de Lima\Estante Literária\obj\Debug\Estante Literária.csproj.AssemblyReference.cache
+C:\Users\rafae\Desktop\projeto final\Estante Literária - Projeto Final de Gabrielle Amancio, Helena Lessa e Rafael de Lima\Estante Literária\obj\Debug\Estante_Literária.FormAutor.resources
+C:\Users\rafae\Desktop\projeto final\Estante Literária - Projeto Final de Gabrielle Amancio, Helena Lessa e Rafael de Lima\Estante Literária\obj\Debug\Estante_Literária.FormCliente.resources
+C:\Users\rafae\Desktop\projeto final\Estante Literária - Projeto Final de Gabrielle Amancio, Helena Lessa e Rafael de Lima\Estante Literária\obj\Debug\Estante_Literária.FormFuncionario.resources
+C:\Users\rafae\Desktop\projeto final\Estante Literária - Projeto Final de Gabrielle Amancio, Helena Lessa e Rafael de Lima\Estante Literária\obj\Debug\Estante_Literária.FormInicial.resources
+C:\Users\rafae\Desktop\projeto final\Estante Literária - Projeto Final de Gabrielle Amancio, Helena Lessa e Rafael de Lima\Estante Literária\obj\Debug\Estante_Literária.FormLivro.resources
+C:\Users\rafae\Desktop\projeto final\Estante Literária - Projeto Final de Gabrielle Amancio, Helena Lessa e Rafael de Lima\Estante Literária\obj\Debug\Estante_Literária.FormVenda.resources
+C:\Users\rafae\Desktop\projeto final\Estante Literária - Projeto Final de Gabrielle Amancio, Helena Lessa e Rafael de Lima\Estante Literária\obj\Debug\Estante_Literária.Properties.Resources.resources
+C:\Users\rafae\Desktop\projeto final\Estante Literária - Projeto Final de Gabrielle Amancio, Helena Lessa e Rafael de Lima\Estante Literária\obj\Debug\Estante Literária.csproj.GenerateResource.cache
+C:\Users\rafae\Desktop\projeto final\Estante Literária - Projeto Final de Gabrielle Amancio, Helena Lessa e Rafael de Lima\Estante Literária\obj\Debug\Estante Literária.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Desktop\projeto final\Estante Literária - Projeto Final de Gabrielle Amancio, Helena Lessa e Rafael de Lima\Estante Literária\obj\Debug\Estante Literária.csproj.CopyComplete
+C:\Users\rafae\Desktop\projeto final\Estante Literária - Projeto Final de Gabrielle Amancio, Helena Lessa e Rafael de Lima\Estante Literária\obj\Debug\Estante Literária.exe
+C:\Users\rafae\Desktop\projeto final\Estante Literária - Projeto Final de Gabrielle Amancio, Helena Lessa e Rafael de Lima\Estante Literária\obj\Debug\Estante Literária.pdb
